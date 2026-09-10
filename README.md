@@ -326,12 +326,14 @@ Duplicate entry - Correo ya registrado - Usar otro correo
 
 ## Referencias
 
+```
 GraphQL Foundation. (2026). Queries. https://graphql.org/learn/queries/
 GraphQL Foundation. (2026). Mutations. https://graphql.org/learn/mutations/
 Postman. (2026). Make a GraphQL call with an HTTP request. https://learning.postman.com/docs/use/send-requests/protocols/graphql/graphql-http/
 Express.js. (s. f.). Basic routing. https://expressjs.com/en/starter/basic-routing/
 MySQL2. (s. f.). Quickstart. https://sidorares.github.io/node-mysql2/docs
 Material suministrado: GraphQL-V02-páginas-3.pdf
+```
 
 ## Profesor
 
