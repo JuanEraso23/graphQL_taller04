@@ -138,8 +138,8 @@ deleteUser(id) - Elimina un usuario
 ### Configuración de Postman
 
 1. Crear una nueva colección: graphQL_taller04
-2. Configurar variable de colección: baseUrl = http://localhost:4000
-3. Crear petición POST a: {{baseUrl}}/graphql
+2. Configurar variable de colección: ```baseUrl = http://localhost:4000```
+3. Crear petición POST a: ```{{baseUrl}}/graphql```
 4. Headers: Content-Type: application/json
 5. Body: raw → JSON
 
