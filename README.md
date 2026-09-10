@@ -335,6 +335,11 @@ MySQL2. (s. f.). Quickstart. https://sidorares.github.io/node-mysql2/docs
 Material suministrado: GraphQL-V02-páginas-3.pdf
 ```
 
+## Autor(es):
+
+- Juan Eraso
+- Jaider Narvaéz
+
 ## Profesor
 
 Fabian Parra - Tecnologías y Sistemas Web - Móvil
